@@ -2,4 +2,8 @@
 /* Name: Sylvere Ekponon */
 /* Student ID: 300936445 */
 /* Date: September 14, 2017 */
-/* app.css file */    
+/* app.css file */
+
+body {
+    padding-bottom: 70px;
+}
